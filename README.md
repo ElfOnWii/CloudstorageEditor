@@ -1,5 +1,5 @@
 # CloudstorageEditor  
-A Fortnite Cloudstorage Editor for going in unreleased gamemodes and editing FortniteGame.ini  
+A Fortnite Cloudstorage Editor for going in unreleased gamemodes and editing DefaultGame.ini  
   
 Tutorial:  
 Step 1. Download And Unzip the Release  
